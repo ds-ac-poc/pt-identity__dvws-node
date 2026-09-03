@@ -23,7 +23,7 @@
   "homepage": "https://github.com/snoopysecurity/dvws-node#readme",
   "dependencies": {
     "@graphql-tools/schema": "^10.0.0",
-    "@xmldom/xmldom": "^0.8.10",
+    "@xmldom/xmldom": "^0.8.15",
     "angular": "^1.8.3",
     "apollo-server": "^3.13.0",
     "bcrypt": "^5.1.1",
